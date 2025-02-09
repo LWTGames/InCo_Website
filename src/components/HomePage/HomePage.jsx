@@ -16,6 +16,18 @@ import imageAssets from "../../utils/Utils";
 const HomePage = () => {
     return (
         <div className="HomePage">
+            <section>
+                <div className="BigGayme" align="center">
+                    <a href="https://bingo.incocollective.com/" aria-label="Play the Big Gayme">
+                        <img
+                            src={imageAssets.bigGaymeHero}
+                            loading="lazy"
+                            alt="Time for sportsball! Ready to tune in and secure a Bingo during the Big Gayme? Let's Go! Click to play the Big Gayme"
+                            className="HomePage-bigGaymeHero"
+                        ></img>
+                    </a>
+                </div>
+            </section>
             <section className="HomePage-hero container">
                 <div className="HomePage-hero-left">
                     <h1>We Are InCo.</h1>

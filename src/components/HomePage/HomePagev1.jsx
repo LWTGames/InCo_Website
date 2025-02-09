@@ -15,6 +15,16 @@ import imageAssets from "../../utils/Utils";
 const HomePage = () => {
    return (
       <>
+         <section>
+            <div className="BigGayme">
+            <img
+               src={bigGaymeHero}
+               loading="lazy"
+               alt="Time for sportsball! Ready to tune in and secure a Bingo during the Big Gayme? Let's Go! Click to play the Big Gayme"
+               className="bigGaymeHero"
+            ></img>
+            </div>
+         </section>
          <section className="container hero position-relative">
             <div className="row d-flex align-items-stretch justify-content-between">
                <div className="col-lg-6 col-md-12 p-0 order-first order-md-1 order-lg-1 order-sm-1  d-flex flex-column justify-content-end position-relative col-title">

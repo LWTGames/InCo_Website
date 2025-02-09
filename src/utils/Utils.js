@@ -20,6 +20,7 @@ const imageAssets = {
    linkedin: require("../assets/linkedin.png"),
    facebook: require("../assets/facebook.png"),
    instagram: require("../assets/instagram.png"),
+   bigGaymeHero: require("../assets/Hero_Section_V7.png"),
 };
 
 export default imageAssets;
