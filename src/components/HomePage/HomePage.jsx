@@ -18,11 +18,11 @@ const HomePage = () => {
         <div className="HomePage">
             <section className="HomePage-hero container">
                 <div className="HomePage-hero-left">
-                    <h1>We Are InCo.</h1>
+                    <h1>I'm testing the website.</h1>
                     <p className="HomePage-hero-name">[ Interconnected Collective ]</p>
                     <p className="HomePage-paragraph mb-0 mb-lg-5">
-                        Creating community and building<br />
-                        connections with bingo!
+                        Do not<br />
+                        merge this!
                     </p>
                     <a href="https://bingo.incocollective.com/" className="btn btn-primary btn-play-bingo HomePage-play-bingo-btn" id="HomePage-hero-desktop-btn">
                         Play Bingo
