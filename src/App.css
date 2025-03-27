@@ -44,12 +44,12 @@ h2 {
 
 .nav-link {
   font-family: 'Hiragano Kuku Gothic', sans-serif;
-  src: url('../src/assets/Hiragino\ Kaku\ Gothic\ ProN.ttf') format('tff');
+  src: url('../src/assets/Hiragino Kaku Gothic ProN.ttf') format('tff');
 }
 
 li {
   font-family: 'new-science-serif', sans-serif;
-  src: url('../src/assets/Hiragino\ Kaku\ Gothic\ ProN.ttf') format('tff');
+  src: url('../src/assets/Hiragino Kaku Gothic ProN.ttf') format('tff');
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 36px;
@@ -69,7 +69,7 @@ small {
 
 Button {
   font-family: 'Hiragaino Kaku Gothic ProN', sans-serif;
-  src: url('../src/assets/Hiragino\ Kaku\ Gothic\ ProN.ttf') format('tff');
+  src: url('../src/assets/Hiragino Kaku Gothic ProN.ttf') format('tff');
 }
 
 /* button styling */
@@ -85,7 +85,7 @@ Button {
   border-radius: 30px;
   font-size: 30px;
   font-family: 'Hiragaino Kaku Gothic ProN', sans-serif;
-  src: url('../src/assets/Hiragino\ Kaku\ Gothic\ ProN.ttf') format('tff');
+  src: url('../src/assets/Hiragino Kaku Gothic ProN.ttf') format('tff');
   height: 70px;
   transition-duration: 300ms;
   transition-timing-function: ease-in;
@@ -133,7 +133,7 @@ Button {
   letter-spacing: .4rem;
   text-transform: uppercase;
   font-family: 'Hiragaino Kaku Gothic ProN', sans-serif;
-  src: url('../src/assets/Hiragino\ Kaku\ Gothic\ ProN.ttf') format('tff');
+  src: url('../src/assets/Hiragino Kaku Gothic ProN.ttf') format('tff');
   border-radius: 30px;
   height: 70px;
   transition-duration: 300ms;
